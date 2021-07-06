@@ -186,17 +186,24 @@ height: 500px;
 .site-info{
     margin-top: 100px;
     width: 100%;
-    height: 300px;
+    height: 250px;
     background-color: rgb(50, 72, 92);
 }
 .site-info{
     color: white;
 }
 .site-info h1{
-    padding-top: 100px;
+    padding-top: 70px;
+    font-size: 45px;
     text-align: center;
 }
 .site-info h4{
-    margin-top: 25px;
+    margin-top: 15px;
     text-align: center;
+    font-weight: normal;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: gray;
 }
